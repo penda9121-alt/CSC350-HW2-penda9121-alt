@@ -32,13 +32,13 @@
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: Visitors can take the B or Q train to Prospect Park Station and walk to the festival grounds.
+- Entrance or meeting location: Visitors should meet at the Prospect Park entrance at Ocean Avenue and Lincoln Road.
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. Wheelchair-accessible pathways and seating areas will be available throughout the festival grounds.
+2.  Accessible restrooms and designated assistance areas will be available for visitors with disabilities.
 
 ## Visitor Reminder
 
