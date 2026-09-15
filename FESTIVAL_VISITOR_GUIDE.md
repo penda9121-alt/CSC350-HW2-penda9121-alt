@@ -2,33 +2,33 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Mariam Penda Diop
+- Course and section: CSC 350 - 1300
+- Date: September 14, 2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: main
+- Personal Homework 2 GitHub URL: https://github.com/penda9121-alt/CSC350-HW2-penda9121-alt
+- Starting `git status`: On branch main, nothing to commit, working tree clean
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: Burkina Heritage & Food Festival
+- Location: Prospect Park, Brooklyn, New York City
+- Intended audience:  Families, students, food lovers, and anyone interested in discovering Burkinabè culture
+- Theme: A celebration of Burkina Faso’s culture through traditional food, music, dance, clothing, art, and community traditions.
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   The saved change currently lives only in my local working directory.
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   No, the change has been saved locally, but it has not been staged or committed yet.
 
 ## Arrival Information
 
