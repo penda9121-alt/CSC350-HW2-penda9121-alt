@@ -46,7 +46,7 @@ Keep personal belongings with you and follow all posted festival safety instruct
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+Verified by Mariam Penda Diop
 
 ## Commit Evidence
 
